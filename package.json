@@ -1,0 +1,19 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "Starting point for a dockerized node js app using docker-compose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimydev/docker-nodejs.git"
+  },
+  "author": "Daniel Madrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimydev/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/danimydev/docker-nodejs#readme"
+}
